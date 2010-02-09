@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Modified by Eric on 2010-02-09.
-Copyright (c) 2009 __lxneng@gmail.com__. All rights reserved.
+Copyright (c) 2010 __lxneng@gmail.com__. All rights reserved.
 """
 import optparse
 import os

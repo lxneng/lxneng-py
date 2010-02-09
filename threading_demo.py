@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Copyright (c) 2009 __lxneng@gmail.com__. All rights reserved.
+Copyright (c) 2010 __lxneng@gmail.com__. All rights reserved.
 """
 import time,datetime
 import threading
